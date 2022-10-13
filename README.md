@@ -94,3 +94,8 @@ docker run -d -p 3000:3000 --name <container_name> <image_name>
 ** This project Explains the list of trainess who has expertise in the perticular domin with the yaer of Experience.
 ** 
 
+
+** It also Includes the option to Download the list of the users which are present in the file , we can also edit the details Manually or by Passing values
+
+** Project also enriched with Filter, Edit, Delete, Export Options which is Helpfull in identifying the right candidate
+
